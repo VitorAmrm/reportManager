@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.amorim
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, asciidoctor, awaitility, email-javamail, email-template, h2, hamcrest, hibernate-validator, http-client, http-session, jackson-databind, java, java-application, jib, jmx, junit, liquibase, log4j2, lombok, management, maven, maven-enforcer-plugin, micronaut-aot, mockito, netty-server, openapi, properties, reactor, reactor-http-client, readme, serialization-jackson, shade, swagger-ui, test-resources, views-handlebars]
